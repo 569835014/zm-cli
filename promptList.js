@@ -4,6 +4,7 @@ function filter(val) {
 
 module.exports = [
     {
+
         type: 'input',
         name: 'name',
         default: '',
